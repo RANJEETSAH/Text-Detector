@@ -1,0 +1,5 @@
+For this project, I am using Virtual Studio Code IDE. This tutorial is a part of python series for absolute beginners. If you have not watched my python tutorial, then click on the link below and start learning!
+
+https://www.codewithharry.com/videos/python-tutorials biNod -for-absolute-beginners-0
+
+If you have ever tried a programming challenge, then you know they are fun. Accepting a coding challenge is an excellent way to improve your coding skills. If you like my work, make sure to check out my courses. Stay safe and keep yourself up to date with codewithharry.

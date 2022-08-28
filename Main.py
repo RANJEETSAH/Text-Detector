@@ -27,7 +27,7 @@ if __name__ == "__main__":
             flag = foundtext(item)
             if (flag):
                 print(f"*******{text} found in {item}**********")
-                nBinod +=1
+                ntext +=1
         else:
             print(f"{text} not found in {item}")
     print("*********Text Detector Summary********")
